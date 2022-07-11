@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "problem-in-cpp"
+    },
+    {
+      "path": "problems-solving-in-c"
+    },
+    {
+      "path": "problems-solving-in-js"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true
+  }
+}
