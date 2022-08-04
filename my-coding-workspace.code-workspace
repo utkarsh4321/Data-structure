@@ -11,6 +11,12 @@
     }
   ],
   "settings": {
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "files.associations": {
+      "*.ejs": "html",
+      "vector": "cpp",
+      "iostream": "cpp",
+      "stack": "cpp"
+    }
   }
 }
