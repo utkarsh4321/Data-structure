@@ -16,7 +16,8 @@
       "*.ejs": "html",
       "vector": "cpp",
       "iostream": "cpp",
-      "stack": "cpp"
+      "stack": "cpp",
+      "utility": "cpp"
     }
   }
 }
